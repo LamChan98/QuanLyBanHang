@@ -1,0 +1,121 @@
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormDangNhap.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLoaiSP.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\BT C#\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormDangNhap.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLoaiSP.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\BT C#\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormDangNhap.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLoaiSP.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTonKho.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormDangNhap.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLoaiSP.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBaoCaoTonKho.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTonKho.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBaoCaoDoanhThu.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmGiaoDich.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNoPhaiThu.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemKhachHang.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemSanPham.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\New folder\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBackup.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\bin\Debug\QuanLyBanHang.mdf
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\bin\Debug\QuanLyBanHang_log.ldf
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.FormDangNhap.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBackup.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBaoCaoDoanhThu.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmGiaoDich.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemSanPham.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemKhachHang.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNoPhaiThu.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmLoaiSP.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTaiKhoan.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBaoCaoTonKho.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTonKho.resources
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Nhóm6_QuanLyBanHangCuaHangSonJOTUN_5601\1621003275_LamKhaChan\1621003275\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
